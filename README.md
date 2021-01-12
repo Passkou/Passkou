@@ -15,11 +15,29 @@
 
 🎹 **ACG属性**
 
-👭 最喜欢的动画：[「のんのんびより」](https://baike.baidu.com/item/悠哉日常大王/9239022)[「私に天使が舞い降りた！」](https://baike.baidu.com/item/天使降临到了我的身边！/23142371)
+👭 最喜欢的动画：
 
-🎮 最喜欢的游戏：[「しゅがてん！」](http://recette.clearrave.co.jp/)[「Minecraft」](https://www.minecraft.net)
+[「のんのんびより」](https://baike.baidu.com/item/悠哉日常大王/9239022)
 
-🎵 最喜欢的音乐：[「Candy a Mine」](https://music.163.com/#/song?id=491233178)[「陽だまりの香り」](https://music.163.com/#/song?id=1424028312)[「Dear Moments」](https://music.163.com/#/song?id=1487339803)[「おかえり」](https://www.kugou.com/song/#hash=3CF0D6404A1496D376DE2407F9E170EC&album_id=1018274)[「気ままな天使たち」](https://www.kugou.com/song/#hash=A31AB510802CDE1FE8FBE80F078107E5&album_id=14938792)
+[「私に天使が舞い降りた！」](https://baike.baidu.com/item/天使降临到了我的身边！/23142371)
+
+🎮 最喜欢的游戏：
+
+[「しゅがてん！」](http://recette.clearrave.co.jp/)
+
+[「Minecraft」](https://www.minecraft.net)
+
+🎵 最喜欢的音乐：
+
+[「Candy a Mine」](https://music.163.com/#/song?id=491233178)
+
+[「陽だまりの香り」](https://music.163.com/#/song?id=1424028312)
+
+[「Dear Moments」](https://music.163.com/#/song?id=1487339803)
+
+[「おかえり」](https://www.kugou.com/song/#hash=3CF0D6404A1496D376DE2407F9E170EC&album_id=1018274)
+
+[「気ままな天使たち」](https://www.kugou.com/song/#hash=A31AB510802CDE1FE8FBE80F078107E5&album_id=14938792)
 
 🎹 **短期目标**
 
