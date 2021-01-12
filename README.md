@@ -10,7 +10,7 @@
 
 [![自己的博客](https://img.imgdb.cn/item/5ffd67853ffa7d37b3ed8862.png "自己的博客")](https://passkou.com)
 [![哔哩哔哩](https://bilibili.com/favicon.ico "哔哩哔哩")](https://bilibili.com/660303135)
-[![网易云音乐](https://s1.music.126.net/style/favicon.ico "网易云音乐")](](https://music.163.com/#/artist?id=14074362))
+[![网易云音乐](https://s1.music.126.net/style/favicon.ico "网易云音乐")](https://music.163.com/#/artist?id=14074362)
 [![GitHub](https://github.com/favicon.ico "GitHub")](https://github.com/Passkou)
 
 🎹 **ACG属性**
