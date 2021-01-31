@@ -12,6 +12,8 @@
 [![哔哩哔哩](https://bilibili.com/favicon.ico "哔哩哔哩")](https://space.bilibili.com/660303135)
 [![网易云音乐](https://s1.music.126.net/style/favicon.ico "网易云音乐")](https://music.163.com/#/artist?id=14074362)
 [![GitHub](https://github.com/favicon.ico "GitHub")](https://github.com/Passkou)
+[![CSDN](https://pic.imgdb.cn/item/6016b8f13ffa7d37b365780d.jpg)](https://blog.csdn.net/m0_55030384)
+[![简书](https://www.jianshu.com/favicon.ico)](https://www.jianshu.com/u/1e533b70b3a8)
 
 🎹 **ACG属性**
 
