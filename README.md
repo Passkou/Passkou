@@ -14,7 +14,7 @@ Undergraduate major in Japanese
 
 Programing(Web Develop, Web crawl), Music Arrangement(Adapt music of ACG), Japanese(Major in and also are favorite)
 
-プログラミング（ウエブサイト開発・データ収集）・編曲（ＡＣＧの曲の改編）・日本語（専門また趣味）
+プログラミング（ウエブサイト開発・ウェブスクレイピング）・編曲（ＡＣＧの曲の改編）・日本語（専門また趣味）
 
 🎹 **活跃的社交媒体 Active social media 活躍しているソーシャルメディア**
 
