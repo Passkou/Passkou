@@ -18,7 +18,7 @@ Programing(Web Develop), Music Arrangement(Adapt music of ACG), Japanese(Major i
 
 🎹 **活跃的社交媒体 Active social media 活躍しているソーシャルメディア**
 
-[![自己的博客 Blog ブログ(https://img.imgdb.cn/item/5ffd67853ffa7d37b3ed8862.png "自己的博客 Blog ブログ")](https://passkou.com)
+[![自己的博客 Blog ブログ](https://img.imgdb.cn/item/5ffd67853ffa7d37b3ed8862.png "自己的博客 Blog ブログ")](https://passkou.com)
 [![GitHub](https://github.com/favicon.ico "GitHub")](https://github.com/Passkou)
 [![哔哩哔哩 BILIBILI ビリビリ動画](https://bilibili.com/favicon.ico "哔哩哔哩 BILIBILI ビリビリ動画")](https://space.bilibili.com/660303135)
 [![网易云音乐 Netease Music ネットイーズ音楽](https://s1.music.126.net/style/favicon.ico "网易云音乐 Netease Music ネットイーズ音楽")](https://music.163.com/#/artist?id=14074362)
