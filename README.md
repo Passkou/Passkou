@@ -10,11 +10,11 @@ Undergraduate major in Japanese
 
 🎹 **兴趣爱好 Favorite 趣味**
 
-编程（WEB开发）、编曲（ACG音乐改编）、日语（是专业也是爱好）
+编程（WEB开发、爬虫）、编曲（ACG音乐改编）、日语（是专业也是爱好）
 
-Programing(Web Develop), Music Arrangement(Adapt music of ACG), Japanese(Major in and also are favorite)
+Programing(Web Develop, Web crawl), Music Arrangement(Adapt music of ACG), Japanese(Major in and also are favorite)
 
-プログラミング（ウエブサイト開発）・編曲（ＡＣＧの曲の改編）・日本語（専門また趣味）
+プログラミング（ウエブサイト開発・データ収集）・編曲（ＡＣＧの曲の改編）・日本語（専門また趣味）
 
 🎹 **活跃的社交媒体 Active social media 活躍しているソーシャルメディア**
 
@@ -57,9 +57,9 @@ Programing(Web Develop), Music Arrangement(Adapt music of ACG), Japanese(Major i
 
 🎹 **短期目标 Short-term targets 短期的目標**
 
-✅ 日本语能力测试N2（2020-01-19） JLPT-N2  日本語能力試験二級
+✅ 日本语能力测试N2 JLPT-N2  日本語能力試験二級 （2020-01-19）
 
-✅ 日本语能力测试N1（2021-01-25） JLPT-N1  日本語能力試験一級
+✅ 日本语能力测试N1 JLPT-N1  日本語能力試験一級 （2021-01-25）
 
 ⬜ 考研
 
