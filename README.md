@@ -15,5 +15,7 @@
 [![哔哩哔哩](https://bilibili.com/favicon.ico "哔哩哔哩")](https://space.bilibili.com/660303135)
 [![网易云音乐](https://s1.music.126.net/style/favicon.ico "网易云音乐")](https://music.163.com/#/artist?id=14074362)
 [![CSDN](https://pic.imgdb.cn/item/6016b8f13ffa7d37b365780d.jpg)](https://blog.csdn.net/m0_55030384)
+[![LeetCode-CN](https://leetcode-cn.com/favicon.ico)](https://leetcode-cn.com/u/passkou/)
+[![Gitee](https://gitee.com/favicon.ico)](https://gitee.com/passkou)
 
 不忘初心，方得始终。
